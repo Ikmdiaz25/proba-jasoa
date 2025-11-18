@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SoftwarearenGarapenaEskakizunOperazionalakProgramaInformatikoa","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SoftwarearenGarapenaEskakizunOperazionalakProgramaInformatikoa","l":"SoftwarearenGarapenaEskakizunOperazionalakProgramaInformatikoa()","u":"%3Cinit%3E()"}];updateSearchResults();
